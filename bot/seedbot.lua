@@ -226,7 +226,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {147191022,120816252,tonumber(our_id)},--Sudo users
+    sudo_users = {(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Telenitro v2 - Open Source
