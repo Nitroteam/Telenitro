@@ -226,7 +226,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {(our_id)},--Sudo users
+    sudo_users = {187948356},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Telenitro v2 - Open Source
@@ -236,6 +236,7 @@ https://github.com/Nitroteam/Telenitro
 Admins
 @keraboy
 @mohammadshadow
+@bita00061
 
 ]],
     help_text_realm = [[
